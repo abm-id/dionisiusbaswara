@@ -1,0 +1,5 @@
+# Local helper scripts (no need to publish to GitHub Pages)
+Download-LinkedIn-Images.bat
+download-images.ps1
+.DS_Store
+Thumbs.db
